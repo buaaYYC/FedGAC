@@ -3,7 +3,7 @@ from Util import *
 from Optim import VRL as OP1
 from Optim import FedProx as OP2
 from Optim import FedNova as OP3
-from ALA import ALA 
+from AILM import ALA 
 
 
 class Client_Sim:
