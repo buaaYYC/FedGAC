@@ -7,9 +7,10 @@ FedCEA is designed to tackle the challenges of statistical heterogeneity in fede
 4. "./Utils.py" contains all necessary functions and discusses how to get training and testing data
 5. "./Settings.py" describes the necessary packages and settings
 6. "./AILM.py" is the implementation of AILM algorithm
-7. Folder "./Models" includes codes for AlexNet, VGG-11, ResNet-18 and LSTM,CNN
-8. Folder "./Optim" includes codes for FedProx, VRL-SGD, FedNova
-9.  Folder "./Comp_FIM" is the library to calculate Fisher Information Matrix (FIM)
+7. Folder "./data folder" contains the data for experiments
+8. Folder "./Models" includes codes for AlexNet, VGG-11, ResNet-18 and LSTM,CNN
+9. Folder "./Optim" includes codes for FedProx, VRL-SGD, FedNova
+10. Folder "./Comp_FIM" is the library to calculate Fisher Information Matrix (FIM)
 
 # Train and evaluate FedCEA
  1. Use "./fedcea_main.py" to run results or ./run_fedcea.sh to run experiments
